@@ -11,7 +11,7 @@ For takers, efficient matching leaves more compute available for routing and tra
 ### Technical capabilities
 
 - Capacity for **551,882 orders in one market**.
-- Measured standalone batches of **2,790 placements**, **385 cancellations** or **374 reprices** in a v0 transaction under favorable benchmark conditions.
+- Measured standalone batches of **2,790 placements**, **385 cancellations** or **374 reprices** in a v0 transaction
 - Selected batch averages of **458 CU per placement** and **698 CU per reprice**.
 - GTC limit, post-only, immediate-or-cancel, timed and repeating flip orders.
 - Atomic composition of deposits, cancellations, repricing, placements and settlement.
